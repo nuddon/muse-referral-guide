@@ -6,6 +6,14 @@
 
 Muse 가입 후 초대 코드를 입력하는 방법을 한국어와 영어로 정리했습니다. 개인 사용자가 작성한 안내이며 Muse의 공식 문서가 아닙니다.
 
+## Community code exchange | 커뮤니티 코드 공유
+
+[Browse or share Muse referral codes | Muse 초대 코드 둘러보기·공유하기](https://muse-code-exchange.open-code-hub.workers.dev)
+
+This independent community page lets you browse or submit six-character Muse referral codes without an account or email. Code availability, eligibility, and rewards are determined by Muse. Some code providers, including this guide’s author, may receive referral rewards.
+
+회원가입이나 이메일 없이 Muse 초대 코드를 둘러보거나 6자리 코드를 공유할 수 있는 독립 커뮤니티 페이지입니다. 코드 이용 가능 여부, 참여 자격과 보상은 Muse가 결정합니다. 이 안내의 작성자를 포함한 코드 제공자도 추천 보상을 받을 수 있습니다.
+
 ## 한국어
 
 ### 가입하고 초대 코드 입력하기
